@@ -26,7 +26,7 @@
 }
 
 .titlebar-button > image {
-    visibility: collapse !important;
+    visibility: off !important;
 }
 
 @media (-moz-bool-pref: "theme.zen-minimal-exit-menu.enable-macos-identic") {
